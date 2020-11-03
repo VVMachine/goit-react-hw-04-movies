@@ -1,0 +1,11 @@
+.profile {
+    width: 150px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.castListItem {
+    list-style: none;
+}
